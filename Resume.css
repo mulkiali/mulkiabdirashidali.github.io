@@ -2,41 +2,27 @@
 
 body {
 	background-color: #1b1b25
-	 }
-
-
-
-
 }
-
   
 #name { text-align: center;
 
-
 }
 
-#header{ 	text-align: center;
+#header { 	text-align: center;
 		color: white;
-		font-family: "Optima", sans serif;
-
-		
+		font-family: "Optima", sans serif;		
 
 
 }
-
-
 
 
 
 #education { 	color: white;
 		font-family: "Optima", sans serif;
 		padding-left: 40px;
-		padding-top: 20px;
-		
+		padding-top: 20px;	
 		
 }
-
-
 
 
 
@@ -54,3 +40,4 @@ body {
 }
 
 #cleaning {	padding-bottom: 30px;
+}
